@@ -30,3 +30,6 @@ struct Temperature{
  var temperature = Temperature(celsius: 21)
 print(temperature.celsius)
 print(temperature.fahrenheit)
+
+// finalizado
+
