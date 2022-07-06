@@ -62,4 +62,6 @@ case .size(let size):
     print("seu tamanho são \(size.height) e \(size.width)" )
 }
 
+//finalizado enum
+
 
